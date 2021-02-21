@@ -6,3 +6,11 @@ img {
   width: 10rem;
   height: 10rem;
 }
+
+button {
+  margin: 0 5px 0 5px;
+}
+
+input {
+  margin: 0 0 5px 5px;
+}
